@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "5a68fdc3615eda645bc6bdec",
+    "bookTitle": "A smile in the mind",
+    "ISBN": "A2DBE",
+    "price": 530,
+    "category": "Reserved",
+    "hardbound": false
+  },
+  {
+    "_id": "5a68fdd7bee8ea64649c2777",
+    "bookTitle": "Brave new world",
+    "ISBN": "AD3D-E",
+    "price": 1200,
+    "category": "Novel",
+    "hardbound": true
+  },
+  {
+    "_id": "5a68fde3f09ad7646ddec17e",
+    "bookTitle": "Cracking the code interview",
+    "ISBN": "BS-ED2A",
+    "price": 1500,
+    "category": "Novel",
+    "hardbound": false
+  },
+  {
+    "_id": "5a68fdf95db93f6477053ddd",
+    "bookTitle": "The Art of Doing Science and Engineering",
+    "ISBN": "2332D3",
+    "price": 125,
+    "category": "Technical",
+    "hardbound": false
+  },
+  {
+    "_id": "5a68fe2142ae6a6482c4c9cb",
+    "bookTitle": "Design Patterns",
+    "ISBN": "23A-EDKD",
+    "price": 3520,
+    "category": "Circulation",
+    "hardbound": false
+  },
+  {
+    "_id": "5a68ff090c553064a218a547",
+    "bookTitle": "Programming Languages",
+    "ISBN": "2001-SD2-BBD",
+    "price": 1500,
+    "category": "Filipiniana",
+    "hardbound": false
+  },
+  {
+    "_id": "5a6900fff467be65019a9001",
+    "bookTitle": "RESTful API Fundamentals",
+    "ISBN": "A-2021-DED",
+    "price": 500,
+    "category": "Periodical",
+    "hardbound": true
+  }
+]
