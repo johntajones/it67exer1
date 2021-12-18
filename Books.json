@@ -13,7 +13,7 @@
     "ISBN": "AD3D-E",
     "price": 1200,
     "category": "Novel",
-    "hardbound": true
+    "hardbound": false
   },
   {
     "_id": "5a68fde3f09ad7646ddec17e",
