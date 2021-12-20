@@ -1,12 +1,14 @@
 const express = require("express")
 const app = express()
+const data = require("./Books.json")
 
 app.get("/api/books", (req, res) => {
-  res.send("Requesting books")
+  res.send(data)
 })
 
 app.get("/api/books/:id", (req, res) => {
-  res.send("Requesting specific books")
+  let result = data.find((book) => book.bookID === parseInt(req.params.id))
+  res.send(result)
 })
 
 app.listen(8000, () => console.log("Listening at port 8080"))

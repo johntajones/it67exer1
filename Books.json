@@ -2,7 +2,7 @@
   {
     "_id": "5a68fdc3615eda645bc6bdec",
     "bookTitle": "A smile in the mind",
-    "ISBN": "A2DBE",
+    "bookID": 1,
     "edition": 2006,
     "price": 530,
     "category": "Reserved",
@@ -11,7 +11,7 @@
   {
     "_id": "5a68fdd7bee8ea64649c2777",
     "bookTitle": "Brave new world",
-    "ISBN": "AD3D-E",
+    "bookID": 2,
     "edition": 2009,
     "price": 1200,
     "category": "Novel",
@@ -20,7 +20,7 @@
   {
     "_id": "5a68fde3f09ad7646ddec17e",
     "bookTitle": "Cracking the code interview",
-    "ISBN": "BS-ED2A",
+    "bookID": 3,
     "edition": 2021,
     "price": 1500,
     "category": "Novel",
@@ -29,7 +29,7 @@
   {
     "_id": "5a68fdf95db93f6477053ddd",
     "bookTitle": "The Art of Doing Science and Engineering",
-    "ISBN": "2332D3",
+    "bookID": 4,
     "edition": 2005,
     "price": 125,
     "category": "Technical",
@@ -38,7 +38,7 @@
   {
     "_id": "5a68fe2142ae6a6482c4c9cb",
     "bookTitle": "Design Patterns",
-    "ISBN": "23A-EDKD",
+    "bookID": 5,
     "edition": 2019,
     "price": 3520,
     "category": "Circulation",
@@ -47,7 +47,7 @@
   {
     "_id": "5a68ff090c553064a218a547",
     "bookTitle": "Programming Languages",
-    "ISBN": "2001-SD2-BBD",
+    "bookID": 6,
     "edition": 2011,
     "price": 1500,
     "category": "Filipiniana",
@@ -56,7 +56,7 @@
   {
     "_id": "5a6900fff467be65019a9001",
     "bookTitle": "RESTful API Fundamentals",
-    "ISBN": "A-2021-DED",
+    "bookID": 7,
     "edition": 2020,
     "price": 500,
     "category": "Periodical",
