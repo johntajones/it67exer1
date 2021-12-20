@@ -1,8 +1,12 @@
-const mongoose = require("mongoose")
+const express = require("express")
+const app = express()
 
-try {
-  mongoose.connect("mongodb://localhost/exer2")
-} catch (error) {
-  console.log("Database error")
-  console.log(error)
-}
+app.get("/api/books", (req, res) => {
+  res.send("Requesting books")
+})
+
+app.get("/api/books/:id", (req, res) => {
+  res.send("Requesting specific books")
+})
+
+app.listen(8000, () => console.log("Listening at port 8080"))
